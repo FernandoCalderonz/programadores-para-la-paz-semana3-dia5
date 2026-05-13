@@ -6,7 +6,8 @@ Nombre de la rama:
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
-¿Por qué una plataforma participativa debe permitir consultar información y también enviar propuestas o mensajes de la comunidad?
+¿Por qué una plataforma participativa debe permitir consultar 
+información y también enviar propuestas o mensajes de la comunidad?
 
 En tu respuesta menciona al menos dos de estas ideas:
 
@@ -19,3 +20,9 @@ En tu respuesta menciona al menos dos de estas ideas:
 - responsabilidad digital
 
 Respuesta:
+Una plataforma participativa debe permitir consultar información y enviar
+propuestas porque fortalece la participación ciudadana, además, el acceso
+a la información ayuda a que las personas entiendan mejor lo que sucede en
+la comunidad. También permite recibir ideas y opiniones de todos. esto
+genera confianza comunitaria, transparencia y una comunicación más clara
+entre ciudadanos y responsables

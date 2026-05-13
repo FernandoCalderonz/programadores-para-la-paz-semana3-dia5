@@ -1,6 +1,6 @@
 const http = require("http")
 
-const puerto = 3000
+const puerto = 2005
 
 const servidor = http.createServer((request, response) => {
   console.log("Método recibido:", request.method)
@@ -43,6 +43,6 @@ const servidor = http.createServer((request, response) => {
 })
 
 servidor.listen(puerto, () => {
-  console.log("Servidor funcionando en http://localhost:3000")
-  console.log("Puedes abrir http://localhost:3000 en el navegador.")
+  console.log("Servidor funcionando en http://localhost:" + puerto)
+  console.log("Puedes abrir http://localhost:" + puerto +" en el navegador.")
 })
